@@ -1,2 +1,2 @@
 # Machine-learning
-Welcome to the Machine Learning Algorithms Repository! This repository is a comprehensive collection of well-organized, well-documented, and easy-to-understand implementations of various machine learning algorithms.
+Machine Learning (ML) projects involve applying algorithms and statistical models to enable computers to perform tasks without explicit programming. ML is a subset of artificial intelligence (AI) that focuses on the development of algorithms and models that allow systems to learn and make predictions or decisions based on data. Here are some key aspects and considerations for ML projects:
